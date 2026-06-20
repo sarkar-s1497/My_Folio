@@ -21,8 +21,7 @@ export default function Footer() {
           >
             Sujit Sarkar
           </a>
-        </p> 
-      
+        </p>
       </div>
     </Fade>
   );

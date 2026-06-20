@@ -42,12 +42,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CLOUD INFRASTRUCTURE ENGINEER SPECIALIZING IN AUTOMATION AND PLATFORM RELIABILITY",
+  subTitle:
+    "CLOUD INFRASTRUCTURE ENGINEER SPECIALIZING IN AUTOMATION AND PLATFORM RELIABILITY",
   skills: [
     emoji(
       "⚡ Provision and administer Azure and AWS cloud resources and architecture"
     ),
-    emoji("⚡ Manage and maintain enterprise Linux servers (RHEL, AIX, Solaris)"),
+    emoji(
+      "⚡ Manage and maintain enterprise Linux servers (RHEL, AIX, Solaris)"
+    ),
     emoji(
       "⚡ Develop Infrastructure as Code solutions using Terraform and automate workflows with Ansible"
     ),
@@ -133,8 +136,8 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Cloud & DevOps (Azure/AWS/Terraform)", 
-      progressPercentage: "90%" 
+      Stack: "Cloud & DevOps (Azure/AWS/Terraform)",
+      progressPercentage: "90%"
     },
     {
       Stack: "Linux Administration (RHEL/AIX)",
@@ -145,7 +148,7 @@ const techStack = {
       progressPercentage: "89%"
     }
   ],
-  displayCodersrank: false 
+  displayCodersrank: false
 };
 
 // Work experience section
@@ -195,8 +198,8 @@ const workExperiences = {
 /* Your Open Source Section to View Your Github Pinned Projects */
 
 const openSource = {
-  showGithubProfile: "true", 
-  display: false 
+  showGithubProfile: "true",
+  display: false
 };
 
 // Some big projects you have worked on
@@ -209,17 +212,19 @@ const bigProjects = {
     {
       //image: require("./assets/images/defaultProjectLogo.jpg"),
       projectName: "Enterprise Kubernetes Platform",
-      projectDesc: "Designed and deployed a multi-tier application architecture on Kubernetes using namespaces, services, persistent volumes and RBAC controls.",
+      projectDesc:
+        "Designed and deployed a multi-tier application architecture on Kubernetes using namespaces, services, persistent volumes and RBAC controls.",
       footerLink: []
     },
     {
       //image: require("./assets/images/defaultProjectLogo.jpg"),
       projectName: "IaC Automation Framework",
-      projectDesc: "Automated provisioning of Azure infrastructure using Terraform and ARM templates to reduce deployment effort and configuration drift.",
+      projectDesc:
+        "Automated provisioning of Azure infrastructure using Terraform and ARM templates to reduce deployment effort and configuration drift.",
       footerLink: []
     }
   ],
-  display: true 
+  display: true
 };
 
 // Achievement Section
@@ -239,7 +244,8 @@ const achievementSection = {
     },
     {
       title: "Oracle Cloud Infrastructure",
-      subtitle: "Certified Data Science Professional & Generative AI Professional",
+      subtitle:
+        "Certified Data Science Professional & Generative AI Professional",
       image: require("./assets/images/OCI.png"),
       imageAlt: "OCI Logo",
       footerLink: []
@@ -252,7 +258,7 @@ const achievementSection = {
       footerLink: []
     }
   ],
-  display: true 
+  display: true
 };
 
 // Blogs Section
@@ -260,7 +266,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle: "",
-  displayMediumBlogs: "false", 
+  displayMediumBlogs: "false",
   blogs: [],
   display: false // Disabled as per CV
 };
@@ -287,12 +293,13 @@ const podcastSection = {
 const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
-  display: true 
+  display: true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91 9619465792",
   email_address: "sarkar.s1497@gmail.com"
 };
@@ -300,8 +307,8 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "", 
-  display: false 
+  userName: "",
+  display: false
 };
 
 const isHireable = true; // Set to true to show you are open to opportunities
