@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Cloud Infrastructure Engineer with 4+ years of experience managing enterprise Linux and cloud platforms in Banking and Large-Scale enterprise environments."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/16gXsOLndwTjKjXSSRAFpSxsUKvy3QI_5/view?usp=drive_link", // Add a Google Drive link to your PDF resume here, or leave empty to hide
+  resumeLink: "./src/containers/greeting/Sujit_Sarkar_CV_5_2026.pdf", // Add a Google Drive link to your PDF resume here, or leave empty to hide
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -108,7 +107,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Ramrao Adik Institute of Technology (DY Patil University)",
-      //logo: require("./assets/images/Rait.png"), // You will need to add a default logo image or custom logo to your assets folder
+      logo: require("./assets/images/RAIT.png"), // You will need to add a default logo image or custom logo to your assets folder
       subHeader: "Master of Technology (M.Tech) in Computer Engineering",
       duration: "Graduated June 2024",
       desc: "Mumbai, India",
@@ -119,7 +118,7 @@ const educationInfo = {
     },
     {
       schoolName: "Chhatrapati Shivaji Maharaj Institute of Technology",
-      //logo: require("./assets/images/Csmit.png"),
+      logo: require("./assets/images/CSMIT.png"),
       subHeader: "Bachelor of Engineering (B.E) in Computer Engineering",
       duration: "Graduated June 2021",
       desc: "Mumbai, India",
@@ -139,11 +138,11 @@ const techStack = {
     },
     {
       Stack: "Linux Administration (RHEL/AIX)",
-      progressPercentage: "85%"
+      progressPercentage: "95%"
     },
     {
       Stack: "Containers & Monitoring (K8s/Docker/Splunk)",
-      progressPercentage: "80%"
+      progressPercentage: "89%"
     }
   ],
   displayCodersrank: false 
@@ -157,7 +156,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Tech Mahindra (Client: State Bank of India)",
-      companylogo: require("./assets/images/Tech_M.png"), // Make sure to add a generic placeholder image to your assets
+      companylogo: require("./assets/images/Tech_Mahindra.png"), // Make sure to add a generic placeholder image to your assets
       date: "April 2025 – Present",
       desc: "Manage and maintain 200+ production Linux servers across RHEL, AIX and Solaris environments supporting critical banking workloads.",
       descBullets: [
@@ -170,7 +169,7 @@ const workExperiences = {
     {
       role: "Senior Linux Administrator",
       company: "Quess Corp (Client: Reliance Industries Limited)",
-      companylogo: require("./assets/images/Quess.png"),
+      companylogo: require("./assets/images/Quess_Corp.png"),
       date: "Dec 2023 – April 2025",
       desc: "Managed infrastructure operations across 1000+ Linux servers spanning production and non-production enterprise environments.",
       descBullets: [
@@ -182,7 +181,7 @@ const workExperiences = {
     {
       role: "Linux Administrator",
       company: "ACL Digital (Client: Reliance Industries Limited)",
-      companylogo: require("./assets/images/ACL_Digital_Logo.png"),
+      companylogo: require("./assets/images/ACL_Digital.png"),
       date: "Nov 2021 – Nov 2023",
       desc: "Administered Linux servers including patch management, storage administration, user management and system performance optimization.",
       descBullets: [
