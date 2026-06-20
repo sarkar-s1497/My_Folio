@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/My_Folio/static/css/main.6515a1f3.css",
+    "main.js": "/My_Folio/static/js/main.e447ea90.js",
+    "static/css/487.bb36206c.chunk.css": "/My_Folio/static/css/487.bb36206c.chunk.css",
+    "static/js/487.e79164b6.chunk.js": "/My_Folio/static/js/487.e79164b6.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/My_Folio/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.0e3ab4ec.chunk.js": "/My_Folio/static/js/990.0e3ab4ec.chunk.js",
+    "static/media/Microsoft_Azure.png": "/My_Folio/static/media/Microsoft_Azure.7f1915a32393f16a221b.png",
+    "static/media/Montserrat-Regular.ttf": "/My_Folio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Sujit_Sarkar_CV_5_2026.pdf": "/My_Folio/static/media/Sujit_Sarkar_CV_5_2026.76d8550d9047dd94bccc.pdf",
+    "static/media/Agustina.woff": "/My_Folio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/CSMIT.png": "/My_Folio/static/media/CSMIT.25f3a3999e4879d0f143.png",
+    "static/media/ACL_Digital.png": "/My_Folio/static/media/ACL_Digital.15230fcefd59302b71f1.png",
+    "static/media/manOnTable.svg": "/My_Folio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/OCI.png": "/My_Folio/static/media/OCI.d18b441fc650fbd083cf.png",
+    "static/media/Tech_Mahindra.png": "/My_Folio/static/media/Tech_Mahindra.d3354392c3626fa4e90b.png",
+    "static/media/contactMailDark.svg": "/My_Folio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/My_Folio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/simplilearn.png": "/My_Folio/static/media/simplilearn.45073b29d72387858d54.png",
+    "static/media/RAIT.png": "/My_Folio/static/media/RAIT.7079d80d9cf77b6c7d50.png",
+    "static/media/skill.svg": "/My_Folio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/My_Folio/index.html",
+    "static/media/talksCardBack.svg": "/My_Folio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.6515a1f3.css.map": "/My_Folio/static/css/main.6515a1f3.css.map",
+    "main.e447ea90.js.map": "/My_Folio/static/js/main.e447ea90.js.map",
+    "487.bb36206c.chunk.css.map": "/My_Folio/static/css/487.bb36206c.chunk.css.map",
+    "487.e79164b6.chunk.js.map": "/My_Folio/static/js/487.e79164b6.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/My_Folio/static/css/990.c6a7ee28.chunk.css.map",
+    "990.0e3ab4ec.chunk.js.map": "/My_Folio/static/js/990.0e3ab4ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6515a1f3.css",
+    "static/js/main.e447ea90.js"
+  ]
+}
