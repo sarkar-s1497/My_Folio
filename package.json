@@ -1,13 +1,15 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "developerfolio",
+  "homepage": "https://sarkar-s1497.github.io/",
+  "name": "Sujit_Sarkar_Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-keywords": "^5.1.0",
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^6.3.0",
     "jest-canvas-mock": "^2.3.1",
     "lottie-react": "^2.4.0",
     "react": "^16.10.2",
@@ -52,7 +54,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "prettier": "^2.3.1"
   }
 }
