@@ -120,7 +120,7 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Chhatrapati Shivaji Maharaj Institute of Technology",
+      schoolName: "Chhatrapati Shivaji Maharaj Institute of Technology (Mumbai University)",
       logo: require("./assets/images/CSMIT.png"),
       subHeader: "Bachelor of Engineering (B.E) in Computer Engineering",
       duration: "Graduated June 2021",
