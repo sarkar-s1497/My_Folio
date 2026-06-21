@@ -109,11 +109,11 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Ramrao Adik Institute of Technology (DY Patil University)",
+      schoolName: "Ramrao Adik Institute of Technology",
       logo: require("./assets/images/RAIT.png"), // You will need to add a default logo image or custom logo to your assets folder
       subHeader: "Master of Technology (M.Tech) in Computer Engineering",
       duration: "Graduated June 2024",
-      desc: "Mumbai, India",
+      desc: " DY Patil University | Navi Mumbai, Maharashtra, India",
       descBullets: [
         "Achieved an 8.24 CGPA",
         "Published research on hybrid LDP and AES encryption for recommendation systems (Springer)"
@@ -121,11 +121,11 @@ const educationInfo = {
     },
     {
       schoolName:
-        "Chhatrapati Shivaji Maharaj Institute of Technology (Mumbai University)",
+        "Chhatrapati Shivaji Maharaj Institute of Technology",
       logo: require("./assets/images/CSMIT.png"),
       subHeader: "Bachelor of Engineering (B.E) in Computer Engineering",
       duration: "Graduated June 2021",
-      desc: "Mumbai, India",
+      desc: "Mumbai University | Panvel, Maharashtra, India",
       descBullets: ["Achieved a 6.74 CGPA"]
     }
   ]
